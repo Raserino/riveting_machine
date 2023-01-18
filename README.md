@@ -1,0 +1,3 @@
+# Riveting machine
+
+I did this project as part of a university course. It is the complete CAD design of a hand operated riveting machine using standard parts. Before that, I did a design calculation to calculate the correct cross sections and weld dimensions so that safe operation would be possible. Finally, I created an engineering drawing that included sections through relevant areas as well as standard weld and surface finish symbols.
